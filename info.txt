@@ -1,0 +1,2 @@
+db_user = wins65
+db_password = s0jjrKUr4yyeH6xn
